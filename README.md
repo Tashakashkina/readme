@@ -1,4 +1,5 @@
-### Hi 👋 I`m Lily. I`m junior mobile developer
+### Hi ✨
+I'm Lily. I'm junior mobile developer
 - 😊 I’m currently working on my Flutter and Dart skills
 
 <!--
@@ -6,7 +7,7 @@
 
 
 
- 
+
 
 
 -->
