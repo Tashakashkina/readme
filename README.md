@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lily</h1>
 <h3 align="center">I'm junior mobile developer</h3>
 
-- 🔭 I’m currently working on **e-commerce pet-project**
+
 
 - 🌱 I’m currently learning **Dart and Flutter**
 
